@@ -1,0 +1,31 @@
+Name,Type,Latitude,Longitude,Radius_NM,Notes
+Orlando Melbourne Intl Airport (KMLB),Airport,28.1028,-80.6453,,
+Valkaria Airport (X59),Airport,27.9609,-80.5583,,
+Patrick Space Force Base Airfield,Airport,28.2336,-80.6106,,
+Merritt Island Airport (KCOI),Airport,28.3416,-80.6855,,
+Atlantic Ocean Coastline,Water Feature,28.0836,-80.5680,,
+Indian River Lagoon,Water Feature,28.1000,-80.6000,,
+Banana River,Water Feature,28.2500,-80.6200,,
+Sebastian Inlet,Water Feature,27.8600,-80.4500,,
+Interstate 95 (Melbourne Area),Road,28.1000,-80.7000,,
+U.S. Route 1,Road,28.1200,-80.6200,,
+Florida State Road A1A,Road,28.1000,-80.5700,,
+Melbourne Causeway,Bridge,28.0830,-80.6300,,
+Eau Gallie Causeway,Bridge,28.1300,-80.6300,,
+Pineda Causeway,Bridge,28.2330,-80.6700,,
+Melbourne,City,28.0836,-80.6081,,
+Palm Bay,City,28.0345,-80.5887,,
+Cocoa Beach,City,28.3200,-80.6100,,
+Titusville,City,28.6122,-80.8076,,
+Sebastian,City,27.8164,-80.4706,,
+Kennedy Space Center,Landmark,28.5729,-80.6490,,
+Cape Canaveral Space Force Station,Landmark,28.4889,-80.5778,,
+Vehicle Assembly Building,Landmark,28.5853,-80.6510,,
+Patrick Space Force Base,Landmark,28.2336,-80.6081,,
+Port Canaveral,Landmark,28.4089,-80.6081,,
+R-2932 (Cape Canaveral Restricted Area),Restricted Area,28.5000,-80.6000,8,Active during launches and military ops
+R-2933 (Cape Canaveral Restricted Area),Restricted Area,28.5500,-80.6500,10,High altitude restrictions possible
+W-497A (Offshore Warning Area),Warning Area,28.3000,-80.3000,20,Military activity offshore
+W-497B (Offshore Warning Area),Warning Area,28.6000,-80.3000,25,Extended offshore ops
+P-56 Equivalent (KSC Security Zone),Prohibited Area,28.5700,-80.6500,3,Strictly no entry (security sensitive)
+Patrick SFB Controlled Airspace,Military Airspace,28.2336,-80.6106,5,Heavy military traffic
